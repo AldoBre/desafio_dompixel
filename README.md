@@ -1,6 +1,6 @@
 # Projeto de Cadastro de Produtos
 
-![Imagem do Projeto](url-da-imagem.jpg)
+![Imagem do Projeto](https://github.com/dom-pixel/fullstack-job-test/blob/laravel/logo.png)
 
 ## Descrição
 
@@ -42,7 +42,6 @@ Certifique-se de que você tenha as seguintes ferramentas instaladas:
     ```bash
     npm install
 
-
 5. Configure o arquivo .env com as configurações do banco de dados e outras configurações relevantes.
 
 6. Gere a chave de criptografia do Laravel:
@@ -66,7 +65,6 @@ Certifique-se de que você tenha as seguintes ferramentas instaladas:
 
     ```bash
     npm run serve
-
 
  3. Acesse o aplicativo em seu navegador em http://localhost:8000.
 
